@@ -1,0 +1,34 @@
+[
+    Prompt(
+        content: "And the Academy Award for _ goes to _",
+        n_answers: 2,
+    ),
+    Prompt(
+        content: "Sure, sex is great, but have you tried drifting with _?",
+    ),
+    Prompt(
+        content: "This ain't a scene, it's _!"
+    ),
+    Prompt(
+        content: "Today's gender is: _"
+    ),
+    Prompt(
+        content: "What shame, the poor groom's bride is _"
+    ),
+    Prompt(
+        content: "Is there anything better than pussy?  Yes!  _"
+    ),
+	Prompt(
+		content: "Truth, Beauty, Freedom, and _"
+	),
+    Prompt(
+        content: "In the Spanish dub, _ is actually _!",
+        n_answers: 2,
+    ),
+	Prompt(
+		content: "On Wednesdays, we wear _"
+	),
+    Prompt(
+        content: "Live fast, die young: _ do it well"
+    )
+]
